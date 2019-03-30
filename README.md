@@ -3,6 +3,12 @@ Scout APM BrainFuck Agent
 
 Find out more at https://www.scoutapm.com/blog
 
+Acknowledgements
+----------------
+
+Thank you to Shinichiro Hamaji [@shinh](https://github.com/shinh) for the excellent BrainFuck interpreter we modified.
+See his very cool [ELVM Compiler Infrastructure](https://github.com/shinh/elvm/) project to compile C programs into working BrainFuck code (among other EsoLang targets).
+
 Setup
 -------
 
