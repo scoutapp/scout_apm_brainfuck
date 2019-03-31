@@ -14,7 +14,7 @@ Setup
 
 Prereq: Ruby to run the BF Interpreter.
 
-1. [Sign up]( https://scoutapm.com/users/sign_up) for an free trial account
+1. [Sign up]( https://scoutapm.com/users/sign_up?utm_source=github&utm_campaign=april_1_2019) for an free trial account
 2. Get your Org Key
 3. Download the Core Agent binary
    ```
