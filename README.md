@@ -1,7 +1,8 @@
 Scout APM BrainFuck Agent
 =========================
 
-Find out more at https://www.scoutapm.com/blog
+Find out more at our announcement post:
+[https://scoutapp.com/blog/announcing-brainfuck-monitoring-for-scout-apm](https://scoutapp.com/blog/announcing-brainfuck-monitoring-for-scout-apm)
 
 Acknowledgements
 ----------------
